@@ -3,5 +3,8 @@ load * inline [
 ID,name,type,value
 1,A,blue,10
 1,A,yellow,50,
+2,A,blue,10
+3,A,yellow,50
+
 
 ];
