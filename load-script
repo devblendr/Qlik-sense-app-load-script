@@ -11,4 +11,5 @@ ID,name,type,value
 7,abc,green,100
 8,def,violet,200
 9,ghi,purple,300
+10,jkl,white,400
 ];
